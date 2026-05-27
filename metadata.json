@@ -1,0 +1,6 @@
+{
+  "name": "PHORGE TOOLS",
+  "description": "A premium, futuristic, offline-first utility tools platform with immersive dark and neon-green cyber aesthetics and high-performance interactive 3D elements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
